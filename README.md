@@ -1,4 +1,4 @@
 # myFirst
 This is my first Git repository
 <br>
-Author Raj vardhan singh
+Author (Raj vardhan singh)
